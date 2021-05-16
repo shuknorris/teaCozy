@@ -4,4 +4,4 @@
 1.Html \
 2.Css
 
-(TeaCozy Link)[https://shuknorris.github.io/teaCozy]
+[TeaCozy Link](https://shuknorris.github.io/teaCozy)
